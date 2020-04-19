@@ -8,7 +8,8 @@ A simple, colourful version of snakegame implemented in python3.
 
 # Execution of project:
 Run the following command in terminal:
-1. python3 snakegame.py
+      
+    python3 snakegame.py
 
 # Contribute:
 Contributions, issues and feature requests are welcome!
